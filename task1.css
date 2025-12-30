@@ -4,7 +4,13 @@
     margin: 0;
     padding: 0;
 }
-
+html{
+    scroll-behavior:smooth;
+}
+.my button a{
+    text-decoration: none;
+    color: aliceblue;
+}
 .nav-container {
     align-items: center;
     justify-content: space-between;
